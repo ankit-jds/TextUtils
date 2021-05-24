@@ -1,0 +1,3 @@
+Hello I am learning Django 
+
+today i am printing this texts from a text file directly onto a webpage
